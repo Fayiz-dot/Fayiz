@@ -1,54 +1,24 @@
-# Mohammed Fayiz Portfolio
+﻿# Mohammed Fayiz T — Portfolio
 
-This folder contains a ready-to-publish static portfolio built from the resume content in `Mohammed Fayiz Performance Marketer Resume.pdf`.
+Responsive static portfolio using the latest supplied resume. HTML, CSS, and a small JavaScript enhancement; no build required.
+
+## Preview
+Open index.html in a browser, or run `python -m http.server 8000` and visit http://localhost:8000.
 
 ## Files
+- index.html: portfolio content and navigation
+- styles.css: responsive design
+- script.js: footer year
+- favicon.svg: browser icon
+- assets/mohammed-fayiz-resume.pdf: downloadable original resume
+- .nojekyll: static GitHub Pages support
 
-- `index.html` - portfolio page
-- `styles.css` - visual styling
+## Publishing
+Repository: https://github.com/Fayiz-dot/Fayiz
 
-## Best Free Hosting Options
+GitHub Pages: https://fayiz-dot.github.io/Fayiz/
 
-### Best overall free option
+Pages should use master and / (root) in Settings → Pages. Pushing updates triggers deployment when Pages is enabled.
 
-GitHub Pages is usually the best zero-cost option for this site because:
-
-- it hosts plain HTML/CSS for free
-- it gives a public link
-- it is simple to update later
-- there are no WordPress plan restrictions
-
-### If you specifically want WordPress
-
-Use WordPress.com Free and recreate this content in pages/sections manually.
-
-Tradeoff:
-
-- you get a public `wordpress.com` link for free
-- customization is more limited than static hosting
-- plugin access is not available on the Free plan
-
-## Fastest Publish Path
-
-### GitHub Pages
-
-1. Create a GitHub account if needed.
-2. Create a new public repository, for example `fayiz-portfolio`.
-3. Upload `index.html` and `styles.css`.
-4. In GitHub repository settings, enable Pages from the main branch.
-5. Your public link will look like `https://yourusername.github.io/fayiz-portfolio/`.
-
-### Netlify Drop
-
-1. Open Netlify Drop in a browser.
-2. Drag this `fayiz-portfolio` folder into the page.
-3. Netlify will generate a public link.
-
-This is the quickest method, but GitHub Pages is usually better for long-term updates.
-
-## Recommended Next Improvements
-
-- Add a professional profile photo
-- Add campaign screenshots or dashboards
-- Add real project case studies with metrics
-- Connect a custom domain later if needed
+## Content notes
+Metrics come from the supplied resume. Quantum Leap sales figures describe sales team outcomes supported by campaign leads. The hero bar graphic is labeled illustrative and does not represent a historical data series. The latest work location is Bengaluru; the general location is India. No generated images are used.
