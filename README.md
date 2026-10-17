@@ -1,4 +1,4 @@
-﻿# Mohammed Fayiz T — Portfolio
+# Mohammed Fayiz T — Portfolio
 
 Responsive static portfolio using the latest supplied resume. HTML, CSS, and a small JavaScript enhancement; no build required.
 
@@ -21,4 +21,7 @@ GitHub Pages: https://fayiz-dot.github.io/Fayiz/
 Pages should use master and / (root) in Settings → Pages. Pushing updates triggers deployment when Pages is enabled.
 
 ## Content notes
-Metrics come from the supplied resume. Quantum Leap sales figures describe sales team outcomes supported by campaign leads. The hero bar graphic is labeled illustrative and does not represent a historical data series. The latest work location is Bengaluru; the general location is India. No generated images are used.
+Metrics come from the supplied resume. Quantum Leap sales figures describe sales team outcomes supported by campaign leads. The latest work location is Bengaluru; the general location is India. No generated images are used.
+
+## Design
+Navy, slate, white, and teal with a name-led hero, 16px desktop campaign text, expanded responsibilities and campaign approaches, and a current-role summary using resume metrics. Responsive layout reviewed at 320, 390, 768, 1024, and 1440 pixels.
