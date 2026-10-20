@@ -27,4 +27,4 @@ Metrics come from the supplied resume. Quantum Leap sales figures describe sales
 Navy, slate, white, and teal with a name-led hero, 16px desktop campaign text, expanded responsibilities and campaign approaches, and a current-role summary using resume metrics. Responsive layout reviewed at 320, 390, 768, 1024, and 1440 pixels.
 
 ## Portrait
-The supplied photograph is stored at `assets/mohammed-fayiz-portrait.jpg`. The hero uses CSS framing to show the head and upper body through the waist, with the same crop at all screen sizes. The original image file is preserved without retouching.
+The high-resolution photograph supplied as `IMG_5326.jpg` is stored unchanged at `assets/mohammed-fayiz-portrait-hires.jpg` (2078 × 3694 pixels). The hero uses CSS framing to show the head and upper body through the waist, with the same crop at all screen sizes. At the maximum 460px display width, the crop retains approximately 1222 source pixels across, sufficient for 2× displays. No AI enhancement, recompression, or CSS transform scaling is applied. The earlier lower-resolution file is retained but is no longer used by the page.
